@@ -1,4 +1,6 @@
 # 📊 Academic-insights-dashboard
+[**View Live Dashboard Here**]([https://app.powerbi.com/view?r=YOUR_LINK_HERE](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Academic-insights-dashboard/m-p/4812278)) 
+
 ### Python + MySQL + Power BI Integration
 
 ![Dashboard Preview](BI_dashboard.png)
