@@ -103,7 +103,7 @@ This project demonstrates how student performance data can be transformed into a
 
 ## 🙋‍♂️ Contact
 
-Jash Nandania: [nandaniajash@gmail.com](mailto:your.email@example.com)
+Jash Nandania: [nandaniajash@gmail.com](nandaniajash@gmail.com)
 
 [LinkedIN](www.linkedin.com/in/jash-nandania-402496245)
 
