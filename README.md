@@ -1,7 +1,7 @@
 # 📊 Academic-insights-dashboard
 ### Python + MySQL + Power BI Integration
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]
 
 ## 🎯 Project Overview
 
